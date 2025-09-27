@@ -195,7 +195,7 @@
     "name": "Bitpanda",
     "logo": "https://www.bitpanda.com/favicon.ico",
     "url": "https://www.bitpanda.com/",
-    "supported_countries": ["AX", "AD", "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FO", "FI", "FR", "DE", "GR", "GL", "GG", "VA", "HU", "IS", "IE", "IM", "IT", "JE", "LV", "LI", "LT", "LU", "MT", "MC", "NL", "NO", "PL", "PT", "RE", "RO", "SM", "RS", "SK", "SI", "ES", "SJ", "SE", "CH", "TR", "CY-TR", "AE", "GB"],
+    "supported_countries": ["GLOBAL"],
     "note": "Supports many more countries in Europe",
     "source": "https://www.bitpanda.com/"
   },
