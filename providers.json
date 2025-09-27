@@ -99,7 +99,7 @@
     "name": "BTC Direct",
     "logo": "https://btcdirect.eu/favicon.ico",
     "url": "https://btcdirect.eu/",
-    "supported_countries": ["AL", "AD", "AT", "BE", "BA", "BG", "HR", "CY", "CZ", "DK", "EE", "FO", "FI", "FR", "DE", "GI", "GR", "GG", "VA", "HU", "IS", "IE", "IM", "IT", "JE", "LV", "LI", "LT", "LU", "MK", "MT", "MD", "MC", "ME", "NL", "NO", "PL", "PT", "RO", "SM", "RS", "SK", "SI", "ES", "SE", "CH", "UA", "GB"],
+    "supported_countries": ["Europe"],
     "note": "Supports many more countries in Europe",
     "source": "https://btcdirect.eu/"
   },
@@ -155,7 +155,7 @@
     "name": "Bitso",
     "logo": "https://bitso.com/favicon.ico",
     "url": "https://bitso.com/",
-    "supported_countries": ["AR", "BO", "BR", "CL", "CO", "CR", "CU", "DO", "EC", "SV", "GF", "GT", "GY", "HN", "MQ", "MX", "NI", "PA", "PY", "PE", "PR", "SR", "UY", "VE"],
+    "supported_countries": ["Latin America"],
     "note": "Supports many more countries in Latin America",
     "source": "https://bitso.com/"
   },
@@ -195,7 +195,7 @@
     "name": "Bitpanda",
     "logo": "https://www.bitpanda.com/favicon.ico",
     "url": "https://www.bitpanda.com/",
-    "supported_countries": ["GLOBAL"],
+    "supported_countries": ["Europe"],
     "note": "Supports many more countries in Europe",
     "source": "https://www.bitpanda.com/"
   },
@@ -235,7 +235,7 @@
     "name": "Revolut (crypto)",
     "logo": "https://www.revolut.com/favicon.ico",
     "url": "https://www.revolut.com/",
-    "supported_countries": ["GLOBAL"],
+    "supported_countries": ["Europe", "North America", "Asia"],
     "note": "Supports more than 40 countries in Europe, America and Asia",
     "source": "https://www.revolut.com/"
   },
@@ -243,8 +243,8 @@
     "name": "Robinhood (crypto)",
     "logo": "https://robinhood.com/favicon.ico",
     "url": "https://robinhood.com/",
-    "supported_countries": ["GLOBAL"],
-    "note": "Supports more than 30 countries in Europe, America and Asia",
+    "supported_countries": ["US"],
+    "note": "",
     "source": "https://robinhood.com/"
   },
   {
@@ -291,8 +291,8 @@
     "name": "CoinDCX",
     "logo": "https://coindcx.com/favicon.ico",
     "url": "https://coindcx.com/",
-    "supported_countries": ["GLOBAL"],
-    "note": "Supports more than 150 countries globally",
+    "supported_countries": ["IN"],
+    "note": "Supports more than 150 countries globally, mainly India",
     "source": "https://coindcx.com/"
   },
   {
@@ -323,7 +323,7 @@
     "name": "CoinCorner",
     "logo": "https://www.coincorner.com/favicon.ico",
     "url": "https://www.coincorner.com/",
-    "supported_countries": ["GB", "EU"],
+    "supported_countries": ["Europe"],
     "note": "",
     "source": "https://www.coincorner.com/"
   },
@@ -443,7 +443,7 @@
     "name": "dtcpay",
     "logo": "https://dtcpay.com/favicon.ico",
     "url": "https://dtcpay.com/",
-    "supported_countries": ["GLOBAL"],
+    "supported_countries": ["SG", "MY", "ID", "TH", "Asia"],
     "note": "Support many more countries globally.",
     "source": "https://dtcpay.com/"
   },
@@ -451,7 +451,7 @@
     "name": "fomopay",
     "logo": "https://www.fomopay.com/favicon.ico",
     "url": "https://www.fomopay.com/",
-    "supported_countries": ["GLOBAL"],
+    "supported_countries": ["Asia"],
     "note": "Support 100+ countries globally.",
     "source": "https://www.fomopay.com/"
   },
@@ -475,7 +475,7 @@
   "name": "Yellow Card",
   "logo": "https://yellowcard.io/favicon.ico",
   "url": "https://yellowcard.io",
-  "supported_countries": ["NG","KE","ZA"],
+  "supported_countries": ["NG", "GH", "KE", "ZA", "UG", "TZ", "RW", "ZM", "BW","Africa"],
   "note": "Supports 20+ countries in Africa.",
   "source": "https://yellowcard.io"
   },
@@ -483,7 +483,7 @@
     "name": "SHIFT",
     "logo": "https://www.shift4.com/favicon.ico",
     "url": "https://www.shift4.com",
-    "supported_countries": ["US","CA"],
+    "supported_countries": ["US","CA", "North America"],
     "note": "Supports US, Canada, and Caribbean countries.",
     "source": "https://www.shift4.com"
   },
@@ -507,7 +507,7 @@
     "name": "MESH",
     "logo": "https://meshpayments.com/favicon.ico",
     "url": "https://meshpayments.com/",
-    "supported_countries": ["US","CA","EU","UK","SG","HK","AU"],
+    "supported_countries": ["US","CA","UK","SG","HK","AU", "Europe"],
     "note": "Supports 100+ countries, mainly US, Canada, EU, UK, Singapore, Hong Kong, Australia.",
     "source": "https://meshpayments.com/"
   },
@@ -539,17 +539,17 @@
     "name": "Kotani Pay",
     "logo": "https://www.kotanipay.com/favicon.ico",
     "url": "https://www.kotanipay.com/",
-    "supported_countries": ["KE"],
+    "supported_countries": ["KE", "ZA", "NA", "BW", "ZM", "GH", "Africa"],
     "note": "Supports primarily Kenya and African countries.",
     "source": "https://www.kotanipay.com/"
   },
   {
     "name": "PEXX",
-    "logo": "https://pex.global/favicon.ico",
-    "url": "https://pex.global",
-    "supported_countries": ["LATAM"],
-    "note": "Supports mainly Latin America.",
-    "source": "https://pex.global"
+    "logo": "https://pexx.com/favicon.ico",
+    "url": "https://pexx.com",
+    "supported_countries": ["GLOBAL"],
+    "note": ".",
+    "source": "https://pexx.com"
   },
   {
     "name": "thalex",
