@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Transak",
+    "logo": "https://transak.com/favicon.ico",
+    "url": "https://transak.com/",
+    "supported_countries": ["IN", "SG", "HK", "PH", "VN", "TH", "MY", "ID", "GB", "US", "CA", "AU", "ZA", "BR", "MX"],
+    "source": "https://transak.com/"
+  },
+  {
+    "name": "XanPool",
+    "logo": "https://xanpool.com/favicon.ico",
+    "url": "https://xanpool.com/",
+    "supported_countries": ["HK", "SG", "MY", "IN", "PH", "VN", "TH", "ID", "PK"],
+    "source": "https://xanpool.com/"
+  },
+  {
+    "name": "Mercuryo",
+    "logo": "https://mercuryo.io/favicon.ico",
+    "url": "https://mercuryo.io/",
+    "supported_countries": ["IN", "SG", "GB", "US", "BR", "ZA", "TR", "PH"],
+    "source": "https://mercuryo.io/"
+  },
+  {
+    "name": "Banxa",
+    "logo": "https://www.banxa.com/favicon.ico",
+    "url": "https://banxa.com/",
+    "supported_countries": ["AU", "NZ", "GB", "CA", "US", "BR", "MX", "ZA", "IE", "DE", "FR", "ES", "IT"],
+    "source": "https://banxa.com/"
+  },
+  {
+    "name": "MoonPay",
+    "logo": "https://www.moonpay.com/favicon.ico",
+    "url": "https://www.moonpay.com/",
+    "supported_countries": ["US", "GB", "CA", "AU", "JP", "KR", "SG", "IN", "BR", "MX", "ZA", "FR", "DE", "ES", "IT"],
+    "source": "https://www.moonpay.com/"
+  },
+  {
+    "name": "Ramp",
+    "logo": "https://ramp.network/favicon.ico",
+    "url": "https://ramp.network/",
+    "supported_countries": ["GB", "DE", "FR", "PL", "ES", "US", "CA", "AU", "NL", "IT", "SE", "NO"],
+    "source": "https://ramp.network/"
+  },
+  {
+    "name": "Wyre",
+    "logo": "https://sendwyre.com/favicon.ico",
+    "url": "https://sendwyre.com/",
+    "supported_countries": ["US", "AU", "AT", "BE", "CA", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HK", "IE", "IT", "LV", "LT", "LU", "MX", "NL", "NZ", "NO", "PL", "PT", "SK", "SI", "ES", "SE", "CH"],
+    "source": "https://sendwyre.com/"
+  },
+  {
+    "name": "Simplex",
+    "logo": "https://www.simplex.com/favicon.ico",
+    "url": "https://www.simplex.com/",
+    "supported_countries": ["US", "GB", "CA", "AU", "NZ", "SG", "JP", "KR", "FR", "DE", "IT", "ES"],
+    "source": "https://www.simplex.com/"
+  },
+  {
+    "name": "Coinmama",
+    "logo": "https://www.coinmama.com/favicon.ico",
+    "url": "https://www.coinmama.com/",
+    "supported_countries": ["US", "GB", "CA", "AU", "IE", "IN", "IL", "ZA", "NZ", "BR", "MX"],
+    "source": "https://www.coinmama.com/"
+  },
+  {
+    "name": "Coinify",
+    "logo": "https://www.coinify.com/favicon.ico",
+    "url": "https://www.coinify.com/",
+    "supported_countries": ["EE", "FI", "FR", "DE", "IE", "IT", "LT", "LV", "NL", "PT", "ES", "SE", "GB", "DK"],
+    "source": "https://www.coinify.com/"
+  },
+  {
+    "name": "Paybis",
+    "logo": "https://paybis.com/favicon.ico",
+    "url": "https://paybis.com/",
+    "supported_countries": ["US", "GB", "CA", "AU", "IE", "DE", "FR", "ZA", "BR", "MX", "IN"],
+    "source": "https://paybis.com/"
+  },
+  {
+    "name": "Indacoin",
+    "logo": "https://indacoin.com/favicon.ico",
+    "url": "https://indacoin.com/",
+    "supported_countries": ["GB", "IE", "US", "IN", "SG", "AU", "ZA", "BR"],
+    "source": "https://indacoin.com/"
+  },
+  {
+    "name": "Coinbase",
+    "logo": "https://www.coinbase.com/favicon.ico",
+    "url": "https://www.coinbase.com/",
+    "supported_countries": ["US", "GB", "CA", "AU", "EU", "JP", "SG", "IN"],
+    "source": "https://www.coinbase.com/"
+  },
+  {
+    "name": "Coinbase Pay",
+    "logo": "https://www.coinbase.com/favicon.ico",
+    "url": "https://www.coinbase.com/pay",
+    "supported_countries": ["US", "GB", "CA", "AU", "EU", "JP", "SG", "IN"],
+    "source": "https://www.coinbase.com/"
+  },
+  {
+    "name": "Binance (consumer buy)",
+    "logo": "https://www.binance.com/favicon.ico",
+    "url": "https://www.binance.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.binance.com/"
+  },
+  {
+    "name": "Paxful",
+    "logo": "https://paxful.com/favicon.ico",
+    "url": "https://paxful.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://paxful.com/"
+  },
+  {
+    "name": "BTC Direct",
+    "logo": "https://btcdirect.eu/favicon.ico",
+    "url": "https://btcdirect.eu/",
+    "supported_countries": ["NL", "BE", "DE", "FR", "ES", "IT", "PL"],
+    "source": "https://btcdirect.eu/"
+  },
+  {
+    "name": "Guardarian",
+    "logo": "https://guardarian.com/favicon.ico",
+    "url": "https://guardarian.com/",
+    "supported_countries": ["GB", "IE", "IN", "PH", "SG", "MY"],
+    "source": "https://guardarian.com/"
+  },
+  {
+    "name": "AlchemyPay",
+    "logo": "https://alchemy-pay.network/favicon.ico",
+    "url": "https://www.alchemy.com/",
+    "supported_countries": ["SG", "MY", "VN", "IN", "US", "GB", "FR", "DE"],
+    "source": "https://www.alchemy.com/"
+  },
+  {
+    "name": "Kado",
+    "logo": "https://kado.money/favicon.ico",
+    "url": "https://kado.money/",
+    "supported_countries": ["US", "CA", "GB", "IE", "IN"],
+    "source": "https://kado.money/"
+  },
+  {
+    "name": "Wert",
+    "logo": "https://www.wert.io/favicon.ico",
+    "url": "https://www.wert.io/",
+    "supported_countries": ["ES", "EU", "MX", "BR", "AR"],
+    "source": "https://www.wert.io/"
+  },
+  {
+    "name": "BitZaro",
+    "logo": "https://bitzaro.com/favicon.ico",
+    "url": "https://bitzaro.com/",
+    "supported_countries": ["GB", "IE", "IN", "PH"],
+    "source": "https://bitzaro.com/"
+  },
+  {
+    "name": "CoinGate",
+    "logo": "https://coingate.com/favicon.ico",
+    "url": "https://coingate.com/",
+    "supported_countries": ["EE", "LT", "LV", "PL", "CZ", "BR", "IN", "GB", "US"],
+    "source": "https://coingate.com/"
+  },
+  {
+    "name": "BitPay",
+    "logo": "https://bitpay.com/favicon.ico",
+    "url": "https://bitpay.com/",
+    "supported_countries": ["US", "CA", "GB", "EU", "AU"],
+    "source": "https://bitpay.com/"
+  },
+  {
+    "name": "Mt Pelerin",
+    "logo": "https://mtpelerin.com/favicon.ico",
+    "url": "https://mtpelerin.com/",
+    "supported_countries": ["CH", "DE", "FR", "IT", "GB"],
+    "source": "https://mtpelerin.com/"
+  },
+  {
+    "name": "Narfex",
+    "logo": "https://narfex.com/favicon.ico",
+    "url": "https://narfex.com/",
+    "supported_countries": ["BR", "AR"],
+    "source": "https://narfex.com/"
+  },
+  {
+    "name": "Paymium",
+    "logo": "https://www.paymium.com/favicon.ico",
+    "url": "https://www.paymium.com/",
+    "supported_countries": ["FR", "EU"],
+    "source": "https://www.paymium.com/"
+  },
+  {
+    "name": "CoinPayments",
+    "logo": "https://www.coinpayments.net/favicon.ico",
+    "url": "https://www.coinpayments.net/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.coinpayments.net/"
+  },
+  {
+    "name": "ByBarter",
+    "logo": "https://bybarter.io/favicon.ico",
+    "url": "https://bybarter.io/",
+    "supported_countries": ["PK", "BD", "IN"],
+    "source": "https://bybarter.io/"
+  },
+  {
+    "name": "TransFi",
+    "logo": "https://transfi.io/favicon.ico",
+    "url": "https://transfi.io/",
+    "supported_countries": ["NG", "GH", "ZA", "KE"],
+    "source": "https://transfi.io/"
+  },
+  {
+    "name": "Kraken (Buy/Sell)",
+    "logo": "https://r.kraken.com/favicon.ico",
+    "url": "https://www.kraken.com/",
+    "supported_countries": ["US", "CA", "EU", "GB", "JP", "AU"],
+    "source": "https://www.kraken.com/"
+  },
+  {
+    "name": "Bitstamp",
+    "logo": "https://www.bitstamp.net/favicon.ico",
+    "url": "https://www.bitstamp.net/",
+    "supported_countries": ["US", "EU", "GB", "CA", "AU"],
+    "source": "https://www.bitstamp.net/"
+  },
+  {
+    "name": "Bitso",
+    "logo": "https://bitso.com/favicon.ico",
+    "url": "https://bitso.com/",
+    "supported_countries": ["MX", "AR", "BR", "CO", "CL", "PE"],
+    "source": "https://bitso.com/"
+  },
+  {
+    "name": "Mercado Bitcoin",
+    "logo": "https://www.mercadobitcoin.com.br/favicon.ico",
+    "url": "https://www.mercadobitcoin.com.br/",
+    "supported_countries": ["BR"],
+    "source": "https://www.mercadobitcoin.com.br/"
+  },
+  {
+    "name": "CoinSpot",
+    "logo": "https://www.coinspot.com.au/favicon.ico",
+    "url": "https://www.coinspot.com.au/",
+    "supported_countries": ["AU"],
+    "source": "https://www.coinspot.com.au/"
+  },
+  {
+    "name": "Coincheck",
+    "logo": "https://coincheck.com/favicon.ico",
+    "url": "https://coincheck.com/",
+    "supported_countries": ["JP"],
+    "source": "https://coincheck.com/"
+  },
+  {
+    "name": "LocalBitcoins",
+    "logo": "https://localbitcoins.com/favicon.ico",
+    "url": "https://localbitcoins.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://localbitcoins.com/"
+  },
+  {
+    "name": "Bisq",
+    "logo": "https://bisq.network/favicon.ico",
+    "url": "https://bisq.network/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://bisq.network/"
+  },
+  {
+    "name": "Shakepay",
+    "logo": "https://shakepay.me/favicon.ico",
+    "url": "https://shakepay.me/",
+    "supported_countries": ["CA"],
+    "source": "https://shakepay.me/"
+  },
+  {
+    "name": "Bitpanda",
+    "logo": "https://www.bitpanda.com/favicon.ico",
+    "url": "https://www.bitpanda.com/",
+    "supported_countries": ["AT", "DE", "FR", "IT", "ES", "NL", "PL"],
+    "source": "https://www.bitpanda.com/"
+  },
+  {
+    "name": "Coinhako",
+    "logo": "https://www.coinhako.com/favicon.ico",
+    "url": "https://www.coinhako.com/",
+    "supported_countries": ["SG", "ID", "MY", "PH"],
+    "source": "https://www.coinhako.com/"
+  },
+  {
+    "name": "Luno",
+    "logo": "https://www.luno.com/favicon.ico",
+    "url": "https://www.luno.com/",
+    "supported_countries": ["ZA", "NG", "GB", "MY", "ID", "SG", "EU"],
+    "source": "https://www.luno.com/"
+  },
+  {
+    "name": "Uphold",
+    "logo": "https://uphold.com/favicon.ico",
+    "url": "https://uphold.com/",
+    "supported_countries": ["US", "GB", "EU", "JP", "CA", "AU"],
+    "source": "https://uphold.com/"
+  },
+  {
+    "name": "Wirex",
+    "logo": "https://wirexapp.com/favicon.ico",
+    "url": "https://wirexapp.com/",
+    "supported_countries": ["GB", "EU", "US", "JP", "SG"],
+    "source": "https://wirexapp.com/"
+  },
+  {
+    "name": "Revolut (crypto)",
+    "logo": "https://www.revolut.com/favicon.ico",
+    "url": "https://www.revolut.com/",
+    "supported_countries": ["GB", "EU", "US", "AU"],
+    "source": "https://www.revolut.com/"
+  },
+  {
+    "name": "Robinhood (crypto)",
+    "logo": "https://robinhood.com/favicon.ico",
+    "url": "https://robinhood.com/",
+    "supported_countries": ["US"],
+    "source": "https://robinhood.com/"
+  },
+  {
+    "name": "eToro (crypto)",
+    "logo": "https://www.etoro.com/favicon.ico",
+    "url": "https://www.etoro.com/",
+    "supported_countries": ["GB", "EU", "AU", "US", "ZA"],
+    "source": "https://www.etoro.com/"
+  },
+  {
+    "name": "Coinone",
+    "logo": "https://coinone.co.kr/favicon.ico",
+    "url": "https://coinone.co.kr/",
+    "supported_countries": ["KR"],
+    "source": "https://coinone.co.kr/"
+  },
+  {
+    "name": "BitFlyer",
+    "logo": "https://bitflyer.jp/favicon.ico",
+    "url": "https://bitflyer.jp/",
+    "supported_countries": ["JP"],
+    "source": "https://bitflyer.jp/"
+  },
+  {
+    "name": "ZebPay",
+    "logo": "https://zebpay.com/favicon.ico",
+    "url": "https://zebpay.com/",
+    "supported_countries": ["IN"],
+    "source": "https://zebpay.com/"
+  },
+  {
+    "name": "WazirX",
+    "logo": "https://wazirx.com/favicon.ico",
+    "url": "https://wazirx.com/",
+    "supported_countries": ["IN"],
+    "source": "https://wazirx.com/"
+  },
+  {
+    "name": "CoinDCX",
+    "logo": "https://coindcx.com/favicon.ico",
+    "url": "https://coindcx.com/",
+    "supported_countries": ["IN"],
+    "source": "https://coindcx.com/"
+  },
+  {
+    "name": "Unocoin",
+    "logo": "https://www.unocoin.com/favicon.ico",
+    "url": "https://www.unocoin.com/",
+    "supported_countries": ["IN"],
+    "source": "https://www.unocoin.com/"
+  },
+  {
+    "name": "Paytm (crypto)",
+    "logo": "https://paytm.com/favicon.ico",
+    "url": "https://paytm.com/",
+    "supported_countries": ["IN"],
+    "source": "https://paytm.com/"
+  },
+  {
+    "name": "Bitonic",
+    "logo": "https://bitonic.nl/favicon.ico",
+    "url": "https://bitonic.nl/",
+    "supported_countries": ["NL"],
+    "source": "https://bitonic.nl/"
+  },
+  {
+    "name": "CoinCorner",
+    "logo": "https://www.coincorner.com/favicon.ico",
+    "url": "https://www.coincorner.com/",
+    "supported_countries": ["GB", "EU"],
+    "source": "https://www.coincorner.com/"
+  },
+  {
+    "name": "CoinHouse",
+    "logo": "https://www.coinhouse.com/favicon.ico",
+    "url": "https://www.coinhouse.com/",
+    "supported_countries": ["FR"],
+    "source": "https://www.coinhouse.com/"
+  },
+  {
+    "name": "BitsoAlpha",
+    "logo": "https://bitso.com/favicon.ico",
+    "url": "https://bitso.com/",
+    "supported_countries": ["MX", "BR", "AR", "CO"],
+    "source": "https://bitso.com/"
+  },
+  {
+    "name": "Bitbank",
+    "logo": "https://bitbank.cc/favicon.ico",
+    "url": "https://bitbank.cc/",
+    "supported_countries": ["JP"],
+    "source": "https://bitbank.cc/"
+  },
+  {
+    "name": "CEX.IO",
+    "logo": "https://cex.io/favicon.ico",
+    "url": "https://cex.io/",
+    "supported_countries": ["US", "EU", "GB", "CA", "AU"],
+    "source": "https://cex.io/"
+  },
+  {
+    "name": "BTC Markets",
+    "logo": "https://www.btcmarkets.net/favicon.ico",
+    "url": "https://www.btcmarkets.net/",
+    "supported_countries": ["AU"],
+    "source": "https://www.btcmarkets.net/"
+  },
+  {
+    "name": "HitBTC",
+    "logo": "https://hitbtc.com/favicon.ico",
+    "url": "https://hitbtc.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://hitbtc.com/"
+  },
+  {
+    "name": "Huobi",
+    "logo": "https://www.huobi.com/favicon.ico",
+    "url": "https://www.huobi.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.huobi.com/"
+  },
+  {
+    "name": "OKX",
+    "logo": "https://www.okx.com/favicon.ico",
+    "url": "https://www.okx.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.okx.com/"
+  },
+  {
+    "name": "Bybit",
+    "logo": "https://www.bybit.com/favicon.ico",
+    "url": "https://www.bybit.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.bybit.com/"
+  },
+  {
+    "name": "KuCoin",
+    "logo": "https://www.kucoin.com/favicon.ico",
+    "url": "https://www.kucoin.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.kucoin.com/"
+  },
+  {
+    "name": "Gate.io",
+    "logo": "https://www.gate.io/favicon.ico",
+    "url": "https://www.gate.io/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.gate.io/"
+  },
+  {
+    "name": "Bitrue",
+    "logo": "https://www.bitrue.com/favicon.ico",
+    "url": "https://www.bitrue.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://www.bitrue.com/"
+  },
+  {
+    "name": "Poloniex",
+    "logo": "https://poloniex.com/favicon.ico",
+    "url": "https://poloniex.com/",
+    "supported_countries": ["GLOBAL"],
+    "source": "https://poloniex.com/"
+  }
+]
